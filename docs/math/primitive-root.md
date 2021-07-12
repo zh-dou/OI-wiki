@@ -382,7 +382,7 @@ $$
 
 -   $m=2p^{\alpha}$，其中 $p$ 为奇素数，$\alpha\in\mathbb{N}^*$。
 
-    > **定理 $3$**：对于奇素数 $p$，$\alpha\in\mathbf{N}^{*}$，$2p^{\alpha}2$ 的原根存在。
+    > **定理 $3$**：对于奇素数 $p$，$\alpha\in\mathbf{N}^{*}$，$2p^{\alpha}$ 的原根存在。
 
     **证明**：设 $g$ 是模 $p^{\alpha}$ 的原根，则 $g+p^{\alpha}$ 也是模 $p^{\alpha}$ 的原根。
 
